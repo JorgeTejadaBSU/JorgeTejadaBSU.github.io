@@ -13,12 +13,15 @@ Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to access t
 Coming up soon
 
 **CS253**
+
 Coming up soon
 
 **CS-HU310**
+
 Comming up soon
 
 **Personal projects**
+
 Coming up soon
 
 ### Support or Contact
