@@ -9,19 +9,16 @@ You can visit my main github page using this [link](https://github.com/JorgeTeja
 Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to access the "Hello-World" tutorial.
 
 
-**CS321**
+**-CS321**   
 Coming up soon
 
-**CS253**
-
+**-CS253**   
 Coming up soon
 
-**CS-HU310**
-
+**-CS-HU310**   
 Comming up soon
 
-**Personal projects**
-
+**Personal projects**   
 Coming up soon
 
 ### Support or Contact
