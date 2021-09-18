@@ -3,7 +3,7 @@
 You can visit my main github page using this [link](https://github.com/JorgeTejadaBSU)!
 
 ### Project tutorial "Hello-World" for CS-HU250
-Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to acces the "Hello-World".
+Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to access the "Hello-World".
 
 ```markdown
 Syntax highlighted code block
