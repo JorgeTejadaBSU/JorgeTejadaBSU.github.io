@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my projects!
 
-You can use the [editor on GitHub](https://github.com/JorgeTejadaBSU/JorgeTejadaBSU.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit my main github page using this [link](https://github.com/JorgeTejadaBSU)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project tutorial "Hello-World" for CS-HU250
+Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to acces the "Hello-World".
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +21,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-https://github.com/JorgeTejadaBSU/hello-world.git
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
