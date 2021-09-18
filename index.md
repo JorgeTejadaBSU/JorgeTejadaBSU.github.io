@@ -5,7 +5,7 @@ You can visit my main github page using this [link](https://github.com/JorgeTeja
 
 ### Future and current projects
 
-**-CS-HU250** 
+**-CS-HU250**      
 Click this [link](https://github.com/JorgeTejadaBSU/hello-world.git) to access the "Hello-World" tutorial.
 
 **-CS321**   
