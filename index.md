@@ -2,6 +2,7 @@
 
 You can visit my main github page using this [link](https://github.com/JorgeTejadaBSU)!
 **The project to edit this website will be private after "Module 4 - Create your own Github Page!" has been graded for CS-HU250!!!**
+**Project for different classes will be uploaded with permission from professors during the semester if they have been graded, once the class has ended at the end of the semester or after graduation projects will uploaded to be used as references**
 
 ### Future and current projects
 
